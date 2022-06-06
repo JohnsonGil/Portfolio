@@ -672,6 +672,9 @@
     .contact-content-con .right-contact {
       margin-bottom: 6rem;
     }
+    .contact-content-con .right-contact .input-control input, .contact-content-con .right-contact .input-control textarea{
+      color:#fff;
+    }
   }
   @media screen and (max-width: 1250px) {
   
